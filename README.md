@@ -7,11 +7,11 @@ imprintrecruit/imprintrecruit is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-- Hi everyone! 
+Hi everyone! 
 
-- Our FinTech Startup Imprint.co is looking for enthusiastic software engineers to join our growing engineering team in Seattle and New York, with options to work remotely! 
+Our FinTech Startup Imprint.co is looking for enthusiastic software engineers to join our growing engineering team in Seattle and New York, with options to work remotely! 
 
--We're constantly on the lookout for talented people and if you're looking for an opportunity to work with cutting-edge technology and some of the smartest people in FinTech, I'd love to connect with you and share more! Email me at naomi@imprint.co. Below is the link to our job board for your references, I look forward to hearing from you! 
+We're constantly on the lookout for talented people and if you're looking for an opportunity to work with cutting-edge technology and some of the smartest people in FinTech, I'd love to connect with you and share more! Email me at naomi@imprint.co. Below is the link to our job board for your references, I look forward to hearing from you! 
 
 -<!---
 1.  Backend Engineer：
